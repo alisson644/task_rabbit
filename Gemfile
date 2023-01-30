@@ -22,10 +22,10 @@ gem 'jbuilder', '~> 2.7'
 # Use Active Model has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
 
-#frontend gems
-gem 'simple_form'
-gem 'haml'
+# frontend gems
 gem 'bootstrap-sass'
+gem 'haml'
+gem 'simple_form'
 
 # Use Active Storage variant
 # gem 'image_processing', '~> 1.2'
